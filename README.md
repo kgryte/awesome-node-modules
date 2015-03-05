@@ -44,7 +44,7 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 *	[vulcanize](https://github.com/polymer/vulcanize)
 
 
-### Testing & Code Quality
+### Testing
 
 *	[mocha](http://mochajs.org/)
 *	[chai](http://chaijs.com/)
