@@ -62,3 +62,11 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 ### Automation
 
 *	[Yeoman](https://github.com/yeoman/yo)
+
+
+### Development
+*	[dependency-check](https://github.com/maxogden/dependency-check)
+*	[vmd](https://github.com/yoshuawuyts/vmd)
+*	[licensing](https://github.com/3rd-Eden/licensing)
+*	[license-checker](https://github.com/davglass/license-checker)
+*	[david](https://github.com/alanshaw/david)
