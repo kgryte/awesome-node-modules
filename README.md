@@ -36,6 +36,7 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 
 * 	[type-name](https://github.com/twada/type-name)
 * 	[node-uuid](https://github.com/broofa/node-uuid)
+*   [parse-messy-time](https://github.com/substack/parse-messy-time)
 
 
 ### Build
