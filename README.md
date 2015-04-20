@@ -33,6 +33,11 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 *	[webtorrent](https://github.com/feross/webtorrent)
 
 
+### Pubsub
+
+*   [topical](https://github.com/kgryte/topical.js)
+
+
 ### Utilities
 
 * 	[type-name](https://github.com/twada/type-name)
