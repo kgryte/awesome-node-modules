@@ -66,6 +66,7 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 *	[coveralls](https://github.com/cainus/node-coveralls)
 *	[istanbul](https://github.com/gotwarlost/istanbul)
 *	[proxyquire](https://github.com/thlorenz/proxyquire)
+*	[nock](https://github.com/pgte/nock)
 
 
 ### Code Quality
