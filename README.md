@@ -27,6 +27,11 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 *	[d3](https://www.npmjs.com/package/d3)
 
 
+### Computation
+
+*   [ndarray](https://github.com/scijs/ndarray)
+*   [compute.io](https://github.com/compute-io/compute.io)
+
 ### Streams
 
 *	[readable-stream](https://github.com/iojs/readable-stream)
