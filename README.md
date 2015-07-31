@@ -50,6 +50,8 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 *   [parse-messy-time](https://github.com/substack/parse-messy-time)
 *   [utils-copy](https://github.com/kgryte/utils-copy)
 *   [utils-merge](https://github.com/kgryte/utils-merge)
+*   [rimraf](https://github.com/isaacs/rimraf)
+*   [mkdirp](https://github.com/substack/node-mkdirp)
   
 
 ### Parsers
