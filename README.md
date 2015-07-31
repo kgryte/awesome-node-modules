@@ -70,7 +70,7 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 
 *	[mocha](http://mochajs.org/)
 *	[chai](http://chaijs.com/)
-*	[coveralls](https://github.com/cainus/node-coveralls)
+*	[codecov.io](https://github.com/cainus/codecov.io)
 *	[istanbul](https://github.com/gotwarlost/istanbul)
 *	[proxyquire](https://github.com/thlorenz/proxyquire)
 *	[nock](https://github.com/pgte/nock)
