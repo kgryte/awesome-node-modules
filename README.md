@@ -30,9 +30,9 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 ### Computation
 
 *   [dstructs](https://github.com/dstructs-io/dstructs)
-*   [ndarray](https://github.com/scijs/ndarray)
 *   [compute.io](https://github.com/compute-io/compute.io)
 *   [distributions](https://github.com/distributions-io/)
+*   [ndarray](https://github.com/scijs/ndarray)
 
 ### Streams
 
