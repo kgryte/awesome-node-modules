@@ -20,6 +20,7 @@ The following modules are of sufficient __quality__ and/or __utility__ that I us
 ### Logging
 
 *	[bunyan](https://github.com/trentm/node-bunyan)
+*	[debug](https://github.com/visionmedia/debug)
 
 
 ### Data Visualization
